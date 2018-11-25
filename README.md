@@ -13,4 +13,4 @@ In this repository we're trying to solve this problem using 3 machine learning m
 3. Neural Networks 
 
 Check the noetbook **Heart_disease_final_project.ipynb** For data cleaning and exploratory data analysis
-**Models Implementation.ipynb** For the three models implementation and test
+<br>**Models Implementation.ipynb** For the three models implementation and test
