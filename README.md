@@ -8,3 +8,9 @@ There are many things that can raise your risk for heart disease. They are calle
 
 
 In this repository we're trying to solve this problem using 3 machine learning models !
+1. Logistic Regression
+2. Random Forest
+3. Neural Networks 
+
+Check the noetbook **Heart_disease_final_project.ipynb** For data cleaning and exploratory data analysis
+**Models Implementation.ipynb** For the three models implementation and test
